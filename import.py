@@ -1,6 +1,6 @@
 import os
 
-WORKING_FOLDER = WORKING_FOLDER = '/..../exports/'
+WORKING_FOLDER = '/..../exports/'
 
 DAR_FOLDER = WORKING_FOLDER + 'dars/'
 COMPOSITE_FOLDER = WORKING_FOLDER + 'composites/'
