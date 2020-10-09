@@ -21,3 +21,9 @@ cli.sh -f [path_to_workingdir]/export.py
 ```
 cli.sh -f [path_to_workingdir]/import.py
 ```
+
+- If some apps should be deleted before exporting you can run the script delete_apps.py
+
+```
+cli.sh -f [path_to_workingdir]/delete_apps.py
+```
